@@ -14,18 +14,7 @@ public class Trade {
 		this.quantity = quantity;
 		this.price = price;
 	}
-	void createTrade() {
-		
-	}
-	void updateTrade() {
-		
-	}
-	void readTrade() {
 	
-	}
-	void deleteTrade() {
-	
-	}
 	public Date getDate() {
 		return dateCreated;
 	}

@@ -7,12 +7,6 @@ public class Users {
 		this.emailID = emailID;
 		this.password = password;
 	}
-	void storeDetails() {
-		
-	}
-	void verifyCredentials() {
-		
-	}
 	public String getEmailID() {
 		return emailID;
 	}
